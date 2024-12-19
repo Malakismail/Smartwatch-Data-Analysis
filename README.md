@@ -28,9 +28,13 @@ It includes the following columns:
 
 ## 🛠 Tools and Libraries
 •	Python
+
 •	Pandas for data manipulation
+
 •	Matplotlib & Seaborn for static visualizations
+
 •	Plotly for interactive visualizations
+
 •	Jupyter Notebook for iterative development
 
 ## 📊 Key Insights
@@ -47,9 +51,11 @@ Explored the contributions of various activity levels (very active, fairly activ
 ## 📈 Visualizations
 The project includes various types of charts, such as:
 
-Bar charts to compare activity levels.
-Pie charts to show activity contributions.
-Scatter plots to explore relationships between metrics.
+•	Bar charts to compare activity levels.
+
+•	Pie charts to show activity contributions.
+
+•	Scatter plots to explore relationships between metrics.
 
 ## 🧩 How to Use
 Clone this repository:
